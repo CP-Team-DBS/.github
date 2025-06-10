@@ -14,7 +14,7 @@
 - [Cara Menggunakan Anoto](#-cara-menggunakan-anoto)
   - [1. Memulai Tes Awal](#1-memulai-tes-awal)
   - [2. Membuat Journal Harian](#2-membuat-journal-harian)
-- [Tim Pengembang](#-contributing)
+- [Tim Pengembang](#-tim-pengembang)
 
 
 ## 💡 Tentang Anoto
