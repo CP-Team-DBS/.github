@@ -120,7 +120,7 @@ Gunakan editor intuitif untuk mengungkapkan pikiran, perasaan, atau refleksi And
 #### Langkah 4: Menambahkan Tag Emosi 
 Identifikasi dan pilih tag emosi yang mewakili perasaan Anda untuk memudahkan analisis pola emosi:
 
->  ![Screenshot_13-6-2025_141842_anoto my id](https://github.com/user-attachments/assets/7ec95328-7dd9-44a7-b87e-a7ae31c74439)
+>  ![Screenshot_13-6-2025_141842_anoto my id](https://github.com/user-attachments/assets/17b5fcb7-331e-473f-bfd6-660b9b51f63f)
 >
 
 >
@@ -129,8 +129,7 @@ Identifikasi dan pilih tag emosi yang mewakili perasaan Anda untuk memudahkan an
 #### Langkah 5: Menyempurnakan Journal Anda 
 Contoh tampilan journal lengkap dengan konten dan tag emosi yang telah dipilih:
 
-> ![Screenshot_13-6-2025_141916_anoto my id](https://github.com/user-attachments/assets/b962a291-d34b-42a9-920c-3321bbebe317)
-
+> ![Screenshot_13-6-2025_141916_anoto my id](https://github.com/user-attachments/assets/7aaa600b-78c9-4463-a6ae-2c6ef6c4eb61)
 >
 > *Teks journal dengan tag emosi membantu sistem menganalisis kondisi mental secara lebih akurat*
 
