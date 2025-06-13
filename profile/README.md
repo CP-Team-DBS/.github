@@ -120,14 +120,17 @@ Gunakan editor intuitif untuk mengungkapkan pikiran, perasaan, atau refleksi And
 #### Langkah 4: Menambahkan Tag Emosi 
 Identifikasi dan pilih tag emosi yang mewakili perasaan Anda untuk memudahkan analisis pola emosi:
 
-> ![Panel pemilihan tag emosi dengan beragam pilihan kondisi mental](/profile/Jurnal-isi2.svg)
+>  ![Screenshot_13-6-2025_141842_anoto my id](https://github.com/user-attachments/assets/7ec95328-7dd9-44a7-b87e-a7ae31c74439)
 >
-> *Pilih dari berbagai tag emosi seperti "Senang", "Sedih", "Cemas", "Gemas", dan lainnya*
+
+>
+> *Pilih dari berbagai tag emosi seperti "Anxiety", "Fear", "Nerveousness", "Sadness", "Shame", dan "Suffering".
 
 #### Langkah 5: Menyempurnakan Journal Anda 
 Contoh tampilan journal lengkap dengan konten dan tag emosi yang telah dipilih:
 
-> ![Contoh journal lengkap dengan teks dan tag emosi terpilih](/profile/Jurnal-isi3.svg)
+> ![Screenshot_13-6-2025_141916_anoto my id](https://github.com/user-attachments/assets/b962a291-d34b-42a9-920c-3321bbebe317)
+
 >
 > *Teks journal dengan tag emosi membantu sistem menganalisis kondisi mental secara lebih akurat*
 
