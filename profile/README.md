@@ -13,7 +13,7 @@
   - [3. Dashboard Analitik](#3-dashboard-analitik)
 - [Cara Menggunakan Anoto](#-cara-menggunakan-anoto)
   - [1. Memulai Tes Awal](#1-memulai-tes-awal)
-  - [2. Membuat Journal Harian](#2-membuat-journal-harian)
+  - [2. Membuat Journal](#2-membuat-journal)
 - [Tim Pengembang](#-tim-pengembang)
 
 
@@ -98,7 +98,7 @@ Setelah menyelesaikan semua pertanyaan, Anda akan mendapatkan visualisasi hasil 
 > ![Detail rekomendasi dan insight personal berdasarkan hasil tes](/profile/HasilInsightCard2.svg)
 
 
-### 2. Membuat Journal Harian 
+### 2. Membuat Journal
 
 Journal adalah ruang ekspresi pribadi untuk menuangkan pikiran dan perasaan Anda dengan aman. Berikut panduan langkah demi langkah:
 
@@ -111,7 +111,7 @@ Buka halaman web dan klik tombol **Journal** yang terletak di pojok kanan atas n
 Pada halaman Journal, temukan dan klik tombol "Mulai Menulis" yang berwarna menonjol. Ini akan membuka editor penulisan dengan berbagai fitur pendukung.
 
 #### Langkah 3: Menulis Refleksi Diri 
-Gunakan editor intuitif untuk mengungkapkan pikiran, perasaan, atau refleksi harian Anda:
+Gunakan editor intuitif untuk mengungkapkan pikiran, perasaan, atau refleksi Anda:
 
 > ![Editor penulisan journal dengan area teks dan formatting tools](/profile/Jurnal-isi.svg)
 >
