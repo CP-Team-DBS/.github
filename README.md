@@ -1,6 +1,6 @@
 # Anoto - Platform Journaling untuk Kesehatan Mental
 
-![Anoto Logo](/profile/logo_anoto.svg)
+![Anoto Logo](/profile/logo_anoto_bg.svg)
 
 > **Temukan ketenangan melalui tulisan, dibimbing dengan teknologi**
 
